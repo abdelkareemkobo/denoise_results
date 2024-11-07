@@ -1,0 +1,7 @@
+analysis/
+__pycache__/
+data/
+CNN_TASK/
+train.h5
+test.h5
+val.h5
